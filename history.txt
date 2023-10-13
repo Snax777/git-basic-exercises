@@ -1,0 +1,500 @@
+   57  cd appdata
+   58  cd local
+   59  cd android
+   60  cd sdk
+   61  cd ..
+   62  cd ..
+   63  cd ..
+   64  cd ..
+   65  cd ..
+   66  cd ..
+   67  cd flutter
+   68  c/users/Sinethemba Tompelo/appdata/local/android/sdk --install "cmdline-tools;latest"
+   69  c/users/Sinethemba Tompelo/appdata/local/android/sdk --install "cmdline-tools;latest"
+   70  flutter doctor
+   71  flutter doctor --android licenses
+   72  flutter doctor --android-licenses
+   73  flutter devices
+   74  flutter doctor --android-licenses
+   75  flutter doctor --android-studio=/
+   76  flutter doctor --android-studio-dir=/
+   77  flutter config --android-studio-dir=/
+   78  flutter doctor --android-licenses
+   79  dart pub cache clean
+   80  cd ..
+   81  cd ../flutter
+   82  flutter doctor
+   83  cd ../../flutter
+   84  dart pub cache clean
+   85  flutter doctor
+   86  cd ../../flutter
+   87  flutter doctor
+   88  flutter doctor
+   89  cd ../../flutter
+   90  flutter doctor
+   91  vi hey
+   92  vi hey
+   93  ls
+   94  rm -r hey
+   95  ls
+   96  man
+   97  pwd
+   98  ls
+   99  whoami
+  100  ls /
+  101  pwd
+  102  nano commit
+  103  ls
+  104  cd desktop
+  105  ls
+  106  vim hello.txt
+  107  echo Hi there > hello.txt
+  108  echo hello.txt
+  109  cat hello.txt
+  110  cat < Hi there
+  111  cat < hello.txt
+  112  pwd
+  113  ls /
+  114  ls
+  115  cd desktop
+  116  mkdir git-basic-exercises
+  117  cd git-basic-exercises
+  118  vim hello.txt
+  119  cd ..
+  120  rmdir git-basic-exercises
+  121  rm -r git-basic-exercises
+  122  clear
+  123  cd desktop
+  124  cd vscode
+  125  ls
+  126  ssh-keygen -t rsa -b 4096 -C "sinethembatompelo3@gmail.com"
+  127  vim personal-key.pub
+  128  vim personal-key.pub
+  129  cd ..
+  130  git clone git@github.com:Umuzi-org/Sinethemba-Tompelo-219-level-1-programming-katas-python.git
+  131  eval "$(ssh-agent -s)"
+  132  ssh-add ~/.ssh/id_rsa
+  133  ssh-add ~/.ssh/personal-key
+  134  cd vscode
+  135  ssh-add ~/.ssh/personal-key
+  136  ssh-agent -s
+  137  ssh-add -l -E sha256
+  138  ssh-keygen -t ed25519 -C "sinethembatompelo3@gmail.com"
+  139  ssh-add ~/id_ed25519
+  140  eval "$(ssh-agent -s)"
+  141  ssd-add ~/.ssh/id_ed25519
+  142  ssh-add ~/.ssh/id_ed25519
+  143  ls
+  144  cd desktop/vscode
+  145  vim id_ed25519
+  146  ls
+  147  vim id_ed25519.pub
+  148  git clone git@github.com:Umuzi-org/Sinethemba-Tompelo-219-level-1-programming-katas-python.git
+  149  cd Sinethemba-Tompelo-219-level-1-programming-katas-python
+  150  git branch
+  151  clear
+  152  cd ..
+  153  cd desktop
+  154  cd vscode
+  155  vim id_ed25519.pub
+  156  vim id_ed25519.txt
+  157  cd desktop/vscode
+  158  ls
+  159  cd Sinethemba-Tompelo-219-level-1-programming-katas-python/
+  160  ls
+  161  cd ..
+  162  git add Sinethemba-Tompelo-219-level-1-programming-katas-python/
+  163  cd Sinethemba-Tompelo-219-level-1-programming-katas-python/
+  164  git remote add origin git@github.com:Umuzi-org/Sinethemba-Tompelo-219-level-1-programming-katas-python.git
+  165  git remote -v
+  166  git push -u origin master
+  167  cd home
+  168  cd desktop
+  169  git clone git@github.com:Umuzi-org/Sinethemba-Tompelo-648-bootcamp-exploratory-data-analysis-python.git
+  170  cd desktop
+  171  mkdir git-basic-exercises
+  172  ls -a
+  173  cd git-basic-exercises
+  174  ls -a
+  175  git init
+  176  ls -a
+  177  git status
+  178  toouch README.md
+  179  touch README.md
+  180  ls -a
+  181  git log
+  182  git add README.md
+  183  git status
+  184  cd desktop/git-basic-exercises/
+  185  git status
+  186  git reset README.md
+  187  git status
+  188  git add README.md
+  189  git commit -m "initial commit"
+  190  git log
+  191  nano README.md
+  192  cat README.md
+  193  git status
+  194  git commit -m "second commit"
+  195  git add README.md
+  196  git status
+  197  git commit -m "second commit"
+  198  git status
+  199  nano README.md
+  200  git add README.md
+  201  git commit -m "third commit"
+  202  git log
+  203  git checkout b53c3aee53604b2846343386a0ac996040c8236b
+  204  cat README.md
+  205  git checkout main
+  206  git checkout main
+  207  git commit
+  208  git log
+  209  nano README.md
+  210  git add README.md
+  211  git commit -m "third commit"
+  212  git log
+  213  git checkout master
+  214  git branch
+  215  git checkout b53c3aee53604b2846343386a0ac996040c8236b
+  216  git checkout main
+  217  cd ..
+  218  rm -r git-basic-exercises/
+  219  rm -r git-basic-exercises
+  220  y
+  221  ls
+  222  cd desktop/git-basic-exercises/
+  223  git push origin milkshake-flavours
+  224  git checkout history
+  225  git push origin history
+  226  cd ..
+  227  git clone git@github.com:Umuzi-org/a-repo-to-clone.git
+  228  cd a-repo-to-clone
+  229  git branch
+  230  git log
+  231  git branch -a
+  232  git fetch origin
+  233  git branch -r
+  234  git checkout -b a-branch-with-a-few-commits origin/a-few-branch-with-a-few-commits
+  235  git branch
+  236  git branch -a
+  237  git checkout origin/a-branch-with-a-few-commits
+  238  git branch
+  239  git remote -v
+  240  git checkout main
+  241  git branch
+  242  git branch -a
+  243  git checkout origin/a-branch-with-a-few-commits
+  244  git log
+  245  cd ../git-basic-exercises/
+  246  git log
+  247  cd ..
+  248  mkdir this-will-be-another-repo
+  249  cd this-will-be-another-repo/
+  250  git init
+  251  touch README.md
+  252  git add README.md
+  253  git commit -m "an empty readme.md file"
+  254  cd ../git-basic-exercises/
+  255  git log
+  256  git checkout main
+  257  git log
+  258  touch ignore-me.db
+  259  git status
+  260  nano .gitignore
+  261  git status
+  262  mkdir large-directory-that-should-be-local-only
+  263  cd large-directory-that-should-be-local-only/
+  264  nano README.md
+  265  cd ...
+  266  cd ..
+  267  git status
+  268  nano .gitignore
+  269  git status
+  270  git add .gitignore
+  271  git commit -m "added .gitignore"
+  272  git push
+  273  cd desktop
+  274  git clone git@github.com:Umuzi-org/Sinethemba-Tompelo-219-level-1-programming-katas-python.git
+  275  cd Sinethemba-Tompelo-219-level-1-programming-katas-python
+  276  ls
+  277  rm task1.py
+  278  rm task2.py
+  279  rm task3.py
+  280  rm task4.py
+  281  rm task5.py
+  282  rm task6.py
+  283  rm task7.py
+  284  git status
+  285  cd ..
+  286  git add Sinethemba-Tompelo-219-level-1-programming-katas-python/
+  287  cd Sinethemba-Tompelo-219-level-1-programming-katas-python
+  288  git init
+  289  cd ..
+  290  git add Sinethemba-Tompelo-219-level-1-programming-katas-python/
+  291  cd Sinethemba-Tompelo-219-level-1-programming-katas-python
+  292  git add Sinethemba-Tompelo-219-level-1-programming-katas-python/
+  293  git branch
+  294  git pull
+  295  git branch
+  296  git checkout -b task/1
+  297  nano task1.py
+  298  git add task1.py
+  299  git commit -m "did task 1"
+  300  git push
+  301  git checkout main
+  302  git status
+  303  ls
+  304  git add ,
+  305  git add .
+  306  git status
+  307  git commit -m "starting afresh"
+  308  git push
+  309  git checkout task/1
+  310  git add .
+  311  git commit -m "did Task 1"
+  312  git status
+  313  git push origin task/1
+  314  git checkout -b task/2
+  315  git branch
+  316  git checkout main
+  317  rm task1.py
+  318  git add .
+  319  git commit -m "starting anew"
+  320  git push
+  321  ls
+  322  git checkout task/2
+  323  nano task2.py
+  324  nano task2.py
+  325  git add task2.py
+  326  git commit -m "did Task 2"
+  327  git push origin task/2
+  328  git checkout -b task/3
+  329  nano task3.py
+  330  git add task3.py
+  331  git status
+  332  git commit -m "did Task 3"
+  333  git push origin task/3
+  334  git checkout -b task/4
+  335  ls
+  336  git checkout task/1
+  337  rm task2.py
+  338  rm task3.py
+  339  rm task4.py
+  340  rm task5.py
+  341  rm task6.py
+  342  rm task7.py
+  343  git add .
+  344  git commit -m "did Task 1"
+  345  git push origin task/1
+  346  ls
+  347  git checkout task/2
+  348  ls
+  349  rm task1.py
+  350  rm task3.py
+  351  rm task4.py
+  352  rm task5.py
+  353  rm task6.py
+  354  rm task7.py
+  355  git add .
+  356  ls
+  357  git commit -m "did Task 2"
+  358  git push origin task/2
+  359  git checkout task/3
+  360  rm task7.py
+  361  rm task6.py
+  362  rm task5.py
+  363  rm task4.py
+  364  rm task2.py
+  365  rm task1.py
+  366  ls
+  367  nano task3.py
+  368  git add .
+  369  git status
+  370  git commit -m "did Task 3"
+  371  git push origin task/3
+  372  git checkout -b task/4
+  373  git checkout task/4
+  374  ls
+  375  rm task1.py
+  376  rm task2.py
+  377  rm task3.py
+  378  rm task5.py
+  379  rm task6.py
+  380  rm task7.py
+  381  nano task4.py
+  382  git add .
+  383  git commit -m "did Task 4"
+  384  git push origin task/4
+  385  git checkout -b task/5
+  386  ls
+  387  mv task4.py task5.py
+  388  ls
+  389  nano task5.py
+  390  git add .
+  391  git commit -m "did Task 5"
+  392  git push origin task/5
+  393  git checkout -b task/6
+  394  ls
+  395  mv task5.py task6.py
+  396  nano task6.py
+  397  git add .
+  398  git commit "did Task 6"
+  399  git commit -m "did Task 6"
+  400  git push origin task/6
+  401  git checkout -b task/7
+  402  ls
+  403  mv task6.py task7.py
+  404  nano task7.py
+  405  git add .
+  406  git commit -m "did Task 7"
+  407  git push origin task/7
+  408  cd desktop/Sinethemba-Tompelo-219-level-1-programming-katas-python/
+  409  git checkout task/1
+  410  ls
+  411  git status
+  412  cd desktop/git-basic-exercises/
+  413  git status
+  414  git push
+  415  git checkout milkshake-flavours
+  416  git add .
+  417  git commit -m "start afresh"
+  418  git push origin milkshake-flavours
+  419  git checkout history
+  420  git add .
+  421  git status
+  422  ls
+  423  git checkout milkshake-flavours
+  424  ls
+  425  rm README.md
+  426  rm milkshakes.md
+  427  git add .
+  428  git commit -m "start afresh"
+  429  git push origin milkshake-flavours
+  430  git checkout history
+  431  ls
+  432  rm README.md
+  433  rm history.txt
+  434  rm milkshakes.md
+  435  git checkout main
+  436  touch README.md
+  437  git add README.md
+  438  git commit -m "initial commit"
+  439  nano README.md
+  440  cat README.md
+  441  git status
+  442  git add README.md
+  443  git commit -m "second commit"
+  444  nano README.md
+  445  git add README.md
+  446  git commit -m "third commit"
+  447  git log
+  448  git checkout 460d399e5e3a52603ebb951ac0f666a9ba8b91be
+  449  cat README.md
+  450  git checkout main
+  451  cat README.md
+  452  git checkout milkshake-flavours
+  453  nano milkshakes.md
+  454  git status
+  455  git add milkshakes.md
+  456  git commit -m "added initial flavours"
+  457  git checkout history
+  458  git log
+  459  history > history.txt
+  460  git add history.txt
+  461  git commit -m "added history"
+  462  git checkout milkshake-flavours
+  463  ls
+  464  git checkout history
+  465  ls
+  466  nano milkshakes.md
+  467  rm milkshakes.md
+  468  rm README.md
+  469  git add .
+  470  git commit -m "added history"
+  471  git checkout milkshake-flavours
+  472  ls
+  473  nano README.md
+  474  git add README.md
+  475  git reset README.md
+  476  git status
+  477  rm README.md
+  478  git status
+  479  git checkout history
+  480  ls
+  481  git checkout main
+  482  ls
+  483  git branch -d milkshake-flavours
+  484  git branch -D milkshake-flavours
+  485  git branch -D history
+  486  git checkout -b milkshake-flavours
+  487  ls
+  488  nano milkshakes.md
+  489  git commit -am "added initial flavours"
+  490  git add milkshakes.md
+  491  git commit -m "added initial flavours"
+  492  git checkout main
+  493  git checkout -b history
+  494  history > history.txt
+  495  ls
+  496  git add history.txt
+  497  git commit -m "added history"
+  498  git checkout milkshake-flavours
+  499  nano README.md
+  500  git commit -am "random readme changes"
+  501  git checkout history
+  502  cat README.md
+  503  rm README.md
+  504  echo "booya" > README.md
+  505  git add README.md
+  506  git commit "rewrote readme"
+  507  git commit -m "rewrote readme"
+  508  git checkout main
+  509  git merge milkshake-flavours
+  510  git checkout history
+  511  git merge main
+  512  nano README.md
+  513  git commit -am "merged readme"
+  514  git checkout main
+  515  git log
+  516  git checkout milkshake-flavours
+  517  git push origin milkshake-flavours
+  518  git status
+  519  ls
+  520  git pull
+  521  git pull git-basic-exercises milkshake-flavours
+  522  git pull --help
+  523  cd ..
+  524  rm -r git-basic-exercises/
+  525  y
+  526  ls
+  527  rm -r git-basic-exercises/
+  528  y
+  529  ls
+  530  ls
+  531  mkdir git-basic-exercises
+  532  cd git-basic-exercises/
+  533  git init
+  534  touch README.md
+  535  git add README.md
+  536  git commit -m "initial commit"
+  537  nano README.md
+  538  cat README.md
+  539  git commit -am "second commit"
+  540  nano README.md
+  541  git commit -am "third commit"
+  542  git log
+  543  git checkout d05dd129ecfc8c249705ae6b0ff778cccf891aa6
+  544  cat README.md
+  545  git checkout main
+  546  cat README.md
+  547  git checkout -b milkshake-flavours
+  548  ls
+  549  nano milkshakes.md
+  550  git add milkshakes.md
+  551  git commit -m "added inital flavours"
+  552  git checkout main
+  553  ls
+  554  git checkout -b history
+  555  ls
+  556  history > history.txt
